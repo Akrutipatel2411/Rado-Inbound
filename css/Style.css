@@ -419,13 +419,14 @@ a {
 
 .line-dot {
 	width: 150px;
-	height: 5px;
+	height: 2px;
 	background-color: #ffffff;
 
 }
 
 .dot {
 	color: #ffffff;
+	font-size: 10px;
 }
 
 .fea-text {
